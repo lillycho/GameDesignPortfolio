@@ -780,6 +780,47 @@ const projects = [
     ]
   },
   {
+    "id": "signal-journey",
+    "title": "Signal Journey",
+    "subtitle": "VR 멀티플레이 게임",
+    "tags": [
+      "Game Design"
+    ],
+    "date": "2024.01",
+    "section": "works",
+    "pages": [
+      {
+        "src": "assets/pages/signal-journey/001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/signal-journey/002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/signal-journey/003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/signal-journey/004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/signal-journey/005.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ],
+    "demo": {
+      "label": "데모 영상",
+      "url": "https://www.youtube.com/watch?v=Cdu8HFCN5TU&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F"
+    }
+  },
+  {
     "id": "lumina-workshop",
     "title": "루미나 공방성",
     "subtitle": "Codex 활용 제작 탑뷰 디펜스 게임",
@@ -814,95 +855,12 @@ const projects = [
         "src": "assets/pages/lumina-workshop/005.webp",
         "width": 2200,
         "height": 1238
-      },
-      {
-        "src": "assets/pages/lumina-workshop/006.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/lumina-workshop/007.webp",
-        "width": 2200,
-        "height": 1238
       }
     ],
     "demo": {
       "label": "게임 데모",
       "url": "https://lillycho.github.io/Siege_of_Lumina/"
     }
-  },
-  {
-    "id": "project-exo",
-    "title": "Project EXO",
-    "section": "works",
-    "subtitle": "협동 소울라이크 액션 게임",
-    "tags": [
-      "AI Native",
-      "Game Design"
-    ],
-    "date": "2026.10 ~",
-    "pages": [
-      {
-        "src": "assets/pages/project-exo/001.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/002.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/003.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/004.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/005.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/006.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/007.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/008.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/009.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/010.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/011.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/project-exo/012.webp",
-        "width": 2200,
-        "height": 1238
-      }
-    ]
   },
   {
     "id": "raccoon-roll",
@@ -945,57 +903,11 @@ const projects = [
         "src": "assets/pages/raccoon-roll/006.webp",
         "width": 2200,
         "height": 1238
-      },
-      {
-        "src": "assets/pages/raccoon-roll/007.webp",
-        "width": 2200,
-        "height": 1238
       }
     ],
     "demo": {
       "label": "게임 데모",
       "url": "https://probablymayb.itch.io/raccoonroll"
-    }
-  },
-  {
-    "id": "signal-journey",
-    "title": "Signal Journey",
-    "subtitle": "VR 멀티플레이 게임",
-    "tags": [
-      "Game Design"
-    ],
-    "date": "2024.01",
-    "section": "works",
-    "pages": [
-      {
-        "src": "assets/pages/signal-journey/001.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/signal-journey/002.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/signal-journey/003.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/signal-journey/004.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/signal-journey/005.webp",
-        "width": 2200,
-        "height": 1238
-      }
-    ],
-    "demo": {
-      "label": "데모 영상",
-      "url": "https://www.youtube.com/watch?v=Cdu8HFCN5TU&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F"
     }
   },
   {
@@ -1030,16 +942,6 @@ const projects = [
       },
       {
         "src": "assets/pages/magical-girl/005.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/magical-girl/006.webp",
-        "width": 2200,
-        "height": 1238
-      },
-      {
-        "src": "assets/pages/magical-girl/007.webp",
         "width": 2200,
         "height": 1238
       }
