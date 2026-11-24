@@ -1,5 +1,87 @@
 const projects = [
   {
+    "id": "chants-of-sennaar",
+    "title": "Chants of Sennaar UI/UX 역기획",
+    "subtitle": "포인트 앤 클릭 어드벤처",
+    "tags": [
+      "UI/UX"
+    ],
+    "date": "2026.11.23",
+    "section": "analysis",
+    "pages": [
+      {
+        "src": "assets/pages/chants-of-sennaar/001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/005.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/006.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/007.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/008.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/009.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/010.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/011.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/012.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/013.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/chants-of-sennaar/014.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  {
     "id": "civilization",
     "title": "문명 VI",
     "subtitle": "생산 시스템 규칙",
