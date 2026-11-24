@@ -862,6 +862,79 @@ const projects = [
     ]
   },
   {
+    "id": "project-exo",
+    "title": "Project EXO",
+    "section": "works",
+    "subtitle": "협동 소울라이크 액션 게임",
+    "tags": [
+      "AI Native",
+      "Game Design"
+    ],
+    "date": "2026.10 ~",
+    "pages": [
+      {
+        "src": "assets/pages/project-exo/001.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/002.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/003.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/004.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/005.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/006.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/007.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/008.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/009.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/010.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/011.webp",
+        "width": 2200,
+        "height": 1238
+      },
+      {
+        "src": "assets/pages/project-exo/012.webp",
+        "width": 2200,
+        "height": 1238
+      }
+    ]
+  },
+  {
     "id": "signal-journey",
     "title": "Signal Journey",
     "subtitle": "VR 멀티플레이 게임",
